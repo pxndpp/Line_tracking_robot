@@ -1,5 +1,6 @@
 # Line_tracking_robot
-  Simple line tracking robot using Nodemcu ESP8266
+  - Simple line tracking robot using Nodemcu ESP8266
+  - This project is a part of my CSC443 class at Rangsit University
 # List items used in this project
   - Nodemcu ESP8266 V3
   - Nodemcu base
