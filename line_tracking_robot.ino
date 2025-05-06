@@ -8,7 +8,8 @@
 int speedCar = 140;  // 0 to 255
 int speed_0 = 0;
 int sensor_L, sensor_R;    //optical sensor values
-int pin_L = 16 , pin_R = 14;  //Pin sensor values
+int pin_L = 16 , pin_R = 14;  //Pin sensor values 
+// L = GPI16 (D0) R = GPI14 (D5)
 String tmp;
 
 void setup() {
